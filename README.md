@@ -2,7 +2,7 @@
 
 TEST
 
-Italic : *Italic*
+Italic : *Italic*\
 bold : **bold**\
 Italic Bold : ***Italic Bold***
 
