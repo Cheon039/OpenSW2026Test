@@ -3,6 +3,6 @@
 TEST
 
 Italic : *Italic*
-bold : **bold**
+bold : **bold**\
 Italic Bold : ***Italic Bold***
 
