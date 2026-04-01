@@ -1,2 +1,8 @@
 # OpenSW2026Test
-bold **bold**
+
+TEST
+
+Italic : *Italic*
+bold : **bold**
+Italic Bold : ***Italic Bold***
+
